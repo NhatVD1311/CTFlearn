@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Jun 10 13:35:25 2022
+Invocation: foremost legotroopers.jpg 
+Output directory: /home/kali/CTFlearn/forensics/Brute_Force_Is_Fun/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: legotroopers.jpg
+Start: Fri Jun 10 13:35:25 2022
+Length: 1 MB (2045340 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	       6 KB 	          0 	 
+1:	00000012.zip 	       1 MB 	       6438 	 
+Finish: Fri Jun 10 13:35:25 2022
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Jun 10 13:35:25 2022
